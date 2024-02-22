@@ -1,0 +1,26 @@
+.contents{
+    margin-left: 500px
+}
+.contentparagraph{
+        color: rgb(12, 12, 12);
+        margin: 20PX auto;
+        font-weight: 100;
+        line-height: 25px;
+        text-transform: uppercase;
+     }
+    
+
+
+    </STYLE>
+  </body>
+ <body>
+    <div class="content">
+        <a target="_content" href="contents.jpg">
+          <img src="contents.jpg" alt="bida" width="500" height="300">
+          <p class="contentparagraph"> mulitple internet to enjoy  </p>
+
+          <div class="contents">
+            <a target="_contents" href="content.jpg">
+              <img src="content.jpg" alt="bidaa" width="500" height="300">
+              <p class="contentparagraph"> Bida Fiber Is Powered by Converge
+                 The Most Leading Communication Company</p>
